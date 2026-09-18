@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cursor to Codex"
+  short_description: "Migrate selected Cursor chats into Codex tasks"
+  brand_color: "#2563EB"
+  default_prompt: "Use $cursor-to-codex to migrate selected local Cursor conversations into this Codex project."
+policy:
+  allow_implicit_invocation: true
