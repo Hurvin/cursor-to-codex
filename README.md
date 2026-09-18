@@ -1,5 +1,7 @@
 # Cursor to Codex
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A Codex Skill for migrating selected local Cursor conversations into Codex tasks under a chosen local project.
 
 ## What it does

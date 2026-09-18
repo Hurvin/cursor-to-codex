@@ -1,5 +1,7 @@
 # Cursor to Codex
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 这是一个用于 Codex 的 Skill：将本机 Cursor 中选定的历史对话，迁移为 Codex 项目下可继续使用的独立任务。
 
 ## 功能
